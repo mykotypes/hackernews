@@ -58,7 +58,7 @@ header {
 		align-items: center;
 		margin: auto;
 		color: #76a9ab;
-		font: 900 7vmin cookie, cursive;
+		font: 900 7vmin helvetica, cursive;
 		text-align: center;
 		mix-blend-mode: difference;
 	}
@@ -148,6 +148,7 @@ header {
 
 		.front {
 			z-index: 2;
+			color: #f0f3ff;
 		}
 
 		.back {
@@ -166,22 +167,22 @@ header {
 
 .news .inner:nth-child(8n+1),
 .news .inner:nth-child(8n+5) {
-	background: #f0f3ff;
+	background: #5966af;
 }
 
 .news .inner:nth-child(8n+2),
 .news .inner:nth-child(8n+6) {
-	background: #f5f1ff;
+	background: #438675;
 }
 
 .news .inner:nth-child(8n+3),
 .news .inner:nth-child(8n+7) {
-	background: #f5fff7;
+	background: #46508b;
 }
 
 .news .inner:nth-child(8n+4),
 .news .inner:nth-child(8n+8) {
-	background: #ebebeb;
+	background: #2e7c69;
 }
 
 .news .inner:nth-child(8n+1) .back,
