@@ -164,42 +164,42 @@ header {
 	}
 }
 
-.news a:nth-child(8n+1),
-.news a:nth-child(8n+5) {
+.news .inner:nth-child(8n+1),
+.news .inner:nth-child(8n+5) {
 	background: #f0f3ff;
 }
 
-.news a:nth-child(8n+2),
-.news a:nth-child(8n+6) {
+.news .inner:nth-child(8n+2),
+.news .inner:nth-child(8n+6) {
 	background: #f5f1ff;
 }
 
-.news a:nth-child(8n+3),
-.news a:nth-child(8n+7) {
+.news .inner:nth-child(8n+3),
+.news .inner:nth-child(8n+7) {
 	background: #f5fff7;
 }
 
-.news a:nth-child(8n+4),
-.news a:nth-child(8n+8) {
+.news .inner:nth-child(8n+4),
+.news .inner:nth-child(8n+8) {
 	background: #ebebeb;
 }
 
-.news a:nth-child(8n+1) .back,
-.news a:nth-child(8n+5) .back {
+.news .inner:nth-child(8n+1) .back,
+.news .inner:nth-child(8n+5) .back {
     background: #f5f1ff;
 }
 
-.news a:nth-child(8n+2) .back,
-.news a:nth-child(8n+6) .back {
+.news .inner:nth-child(8n+2) .back,
+.news .inner:nth-child(8n+6) .back {
 	background: #f0f3ff;
 }
 
-.news a:nth-child(8n+3) .back,
-.news a:nth-child(8n+7) .back {
+.news .inner:nth-child(8n+3) .back,
+.news .inner:nth-child(8n+7) .back {
 	background: #ebebeb;
 }
 
-.news a:nth-child(8n+4) .back,
-.news a:nth-child(8n+8) .back {
+.news .inner:nth-child(8n+4) .back,
+.news .inner:nth-child(8n+8) .back {
     background: #f5fff7;
 }
